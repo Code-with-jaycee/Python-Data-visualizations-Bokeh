@@ -19,8 +19,13 @@ A pie chart is a circular graph that shows how much of the data falls into each 
 
 # Histogram
 
-Histograms are used to plot numerical data according to the range they fall into. The data is plotted in the form of bins, or rectangles and the y-axis corresponds to the amount of data present in a certain range or at a certain point.
+Plotting numerical data according to the range it falls into is done using histograms. The y-axis indicates how much data is present in a given range or at a given moment, and the data is represented as rectangles or bins.
 # Bar Plot
+
+Bar charts are used to illustrate the data distribution for categorical data, while histograms are applied to plot numerical data distributions. Additionally, bins are used to plot the volume of data. A stacked bar chart is one in which the bins are layered one on top of the other.
 # Area Plot
+When the region below a line is shaded, an area chart combines the lines and bars. We may visualize the evolution of several groups' values over time using an area chart. To display the vertical range of data, the area chart uses many baselines.
+
 # Layout Function
-# Interactivity with Bokeh
+
+Our numerous plots and widges are arranged using Bokeh's layout feature. We can view multiple graphs simultaneously as a result of this. It enables you to create plot grids, which are primarily utilized when constructing dashboards.
