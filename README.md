@@ -18,6 +18,8 @@ A line chart is a representation that shows data as a collection of dots connect
 A pie chart is a circular graph that shows how much of the data falls into each category by dividing it into slices. It is a quick and simple approach to see which categories in our data make up what proportion of the entire dataset. Pie charts with a hole in the middle are what donut charts are.
 
 # Histogram
+
+Histograms are used to plot numerical data according to the range they fall into. The data is plotted in the form of bins, or rectangles and the y-axis corresponds to the amount of data present in a certain range or at a certain point.
 # Bar Plot
 # Area Plot
 # Layout Function
